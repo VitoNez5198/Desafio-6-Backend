@@ -4,12 +4,12 @@ Este proyecto es un servidor Express que maneja consultas a una base de datos Po
 
 ## Requisitos previos
 
-Antes de ejecutar este proyecto, asegúrate de tener lo siguiente instalado:
+Asegúrate de tener lo siguiente instalado:
 
 - Node.js
 - PostgreSQL
 
-Crea un archivo .env en el directorio raíz del proyecto y proporciona los siguientes valores:
+Crea un archivo .env en el directorio raíz del proyecto
 
     DB_HOST=nombre_del_host
     DB_USER=nombre_de_usuario
