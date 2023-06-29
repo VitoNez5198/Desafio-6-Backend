@@ -14,9 +14,8 @@ Crea un archivo .env en el directorio raíz del proyecto y proporciona los sigui
     DB_HOST=nombre_del_host
     DB_USER=nombre_de_usuario
     DB_PASSWORD=contraseña
-    DB_NAME=nombre_de_la_base_de_datos
-    JWT_SECRET=clave_secreta_para_generar_tokens
-    PORT=puerto_donde_operará
+    DB_NAME=base_de_datos
+    JWT_SECRET=clave_secreta
 
 Uso
 
